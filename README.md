@@ -23,8 +23,6 @@ Numerical BMI result and further information regarding user's health is returned
 ![bmiCalc2](https://user-images.githubusercontent.com/48602973/178050674-5305da76-590a-477a-af43-17ecd430dda7.png)
 
 
-## Setting Up
-
 ## Running the application in your local environment
 
 1. Clone project 
